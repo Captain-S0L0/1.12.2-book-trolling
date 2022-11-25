@@ -1,0 +1,14 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.terriblefriends.troll.mixins",
+  "refmap": "mixins.shulkerdupe.refmap.json",
+  "client": [
+    "NetworkManagerMixin",
+    "EntityPlayerSPMixin",
+    "GuiScreenBookMixin"
+  ],
+  "server": [
+  ],
+  "mixins": [
+  ]
+}
